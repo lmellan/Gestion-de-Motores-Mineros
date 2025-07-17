@@ -1,6 +1,20 @@
 
 # Gestión de Motores Mineros
 
+Esta es una aplicación diseñada para registrar, visualizar y analizar incidencias relacionadas con los motores de camiones utilizados en faenas mineras. El sistema centraliza la información histórica de cada motor, facilita la comunicación entre turnos, optimiza la asignación de recursos y apoya la toma de decisiones mediante trazabilidad y análisis de datos.
+
+Entre sus funcionalidades destacan:
+
+* Registro detallado de incidencias mecánicas.
+* Visualización del estado de motores y camiones en tiempo real.
+* Asignación automática de mecánicos según disponibilidad y turnos.
+* Comunicación entre mecánicos y jefes de motor.
+* Recolección de antecedentes desde los conductores ante fallas.
+* Análisis histórico para detección de patrones y prevención de fallas.
+
+Esta herramienta busca mejorar la eficiencia operativa, reducir los tiempos de respuesta ante fallas y aumentar la vida útil de los equipos mediante una gestión digital moderna y trazable.
+
+## Integrantes
 Los integrantes del equipo son:
 
 * Rock Dabre        - 202173077-k
