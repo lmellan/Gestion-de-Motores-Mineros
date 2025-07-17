@@ -1,7 +1,7 @@
 
-# Grupo 04 - Ingeniería de Software - 2024-2
+# Gestión de Motores Mineros
 
-Continuaremos trabajando los mismos integrantes del grupo 2 en el mismo proyecto de Análisis y Diseño de Software. Este es el repositorio del *Grupo 4*, cuyos integrantes son:
+Los integrantes del equipo son:
 
 * Rock Dabre        - 202173077-k
 * Diego Mella       - 202110018-0
@@ -17,7 +17,7 @@ Continuaremos trabajando los mismos integrantes del grupo 2 en el mismo proyecto
 
 Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.com/inf236-2024-1/grupo002/-/wikis/home#wiki-grupo-02)
 
-# Continuación - Ingeniería de Software 2024-2
+# Índice
 
 - [Levantamiento del Proyecto](#levantamiento-del-proyecto)
   - [Instalación](#instalacion)
